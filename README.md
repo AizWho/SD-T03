@@ -45,7 +45,10 @@ O arquivo `cliente.py` realiza um fluxo completo de teste:
 * **GET:** Verifica se o status do livro mudou para "Indisponível" no servidor.
 
 **Instalação da biblioteca necessária:**
-
+```bash
+pip install requests
+```
+Caso use linux em que o sistema gerencia os pacotes python:
 ```bash
 sudo apt install python3-requests
 
