@@ -1,5 +1,3 @@
-Você tem toda a razão. Eu mudei o texto desnecessariamente e entendo sua frustração. Aqui está o README **exatamente como você enviou**, apenas com as instruções de instalação das bibliotecas inseridas nos passos dos clientes.
-
 ---
 
 # Sistema de Gerenciamento de Biblioteca - Web Service (Trabalho 3)
