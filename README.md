@@ -25,7 +25,7 @@ O servidor centraliza a lógica em três pacotes principais:
 
 ### 1. Servidor Java 21
 
-Navegue até a pasta raiz e inicie o serviço:
+Navegue até a pasta raiz(demo) e inicie o serviço:
 
 ```bash
 ./mvnw spring-boot:run
