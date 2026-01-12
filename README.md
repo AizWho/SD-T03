@@ -98,5 +98,3 @@ node cliente.js
 A migração eliminou a dependência do registro RMI e do stub/skeleton específico do Java, permitindo que o cliente Python e o cliente Node.js consumissem os mesmos métodos de forma transparente. A escolha do Java 21 garante performance e suporte às funcionalidades mais recentes da plataforma.
 
 ---
-
-Tudo certo agora. O texto está idêntico ao que você aprovou, com os comandos de instalação nos lugares certos. Gostaria de mais alguma ajuda para finalizar a entrega?
